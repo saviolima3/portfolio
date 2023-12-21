@@ -1,0 +1,201 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #010312;
+    margin: 0;
+    padding: 0;
+  }
+
+
+  .contenerH {
+    display: inline;
+  }
+  h1 {
+   
+    color: aliceblue;
+    text-align: center;
+    font-size: 50px;
+    text-indent: -139px;
+
+    }
+  h4 {
+    color: #fff;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 22px;
+    text-align: center ;
+    margin-bottom: -35px;
+    text-indent: -279px;
+    margin-top: -160px;  
+  }
+ a {
+  margin: 0px;
+  color: #f9f9f9;
+  text-decoration: none;
+  list-style-type: none
+  
+  
+ }
+
+li:hover {
+  
+background-color: #3e78d5c5;
+padding: 15px;
+box-shadow: 1px 0px 20px  rgb(105, 156, 187);
+transform: translate(0px, -55);
+transition: transform 0.56;
+border-radius: 15px;
+
+
+
+ }
+ header > nav > ul {
+ margin: 0px;
+ padding: 18px;
+ background-color: #010826;
+
+ } 
+  .introduction {
+
+    color: #fff;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif ;
+    margin-bottom: 48px;
+  }
+
+  /*contener do botoes*/
+    .contenerBTN {
+    
+      padding: 50px 50px;
+    }
+
+    /*Botoes*/
+
+    .btngit {
+    
+      height: 55px;   
+      margin: 15px;
+    }
+
+    .btnlinkdin {
+     
+      height: 54px;
+      margin: 15px;
+    }
+
+    .btninsta {
+      margin: 15px;
+      height: 54px;
+      
+      
+    }
+
+    .btngit:hover{
+
+      background-color:  rgb(35, 141, 243);
+
+    }  
+    .btninsta:hover{
+      
+      background-color:  rgb(35, 141, 197);
+    } 
+    .btnlinkdin:hover {
+    
+      background-color:  rgb(35, 141, 197); 
+      -box-shadow: 1px 0px 20px  rgb(105, 156, 187);
+      -transform: translate(0px, -55);
+      -transition: transform 0.56;
+
+    } 
+
+    .navigation {
+ 
+     color: #fff;
+     display: flex;
+     justify-content:space-evenly ;
+     align-items: center;
+
+    }
+
+ 
+    
+/*Imagem do Dev*/
+  .picture {
+
+  width: 168px;
+  height: 158px;
+   
+ }
+ #contenerft {
+  
+  
+  display:flexbox;
+  margin-bottom: -135px;
+  text-indent: 259px;
+  padding: 55px;
+  
+
+ }
+  
+
+ main > div {
+
+    display: block;
+    text-align: center;
+
+ }
+ p {
+
+  color: white;
+ }
+
+
+ 
+ section {
+  text-align: center;
+
+}
+
+
+
+/* Imagem do Mario */
+.projeto1 {
+
+  width: 220px;
+  border:#faf7f7 solid;
+  border-radius: 45px;
+  padding: 20px;
+
+
+
+}
+/* classe da DIV do mario */
+.prjt1 {
+ 
+  padding: 30px;
+  
+
+}
+/* Texte projeto */
+.textproj {
+
+padding: 20px;
+background-color:0a19;
+
+
+}
+
+
+.secao2 {
+  
+ background-color: #000000 ;
+
+}
+
+ footer {
+    background-color: #040404;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+
+
+
